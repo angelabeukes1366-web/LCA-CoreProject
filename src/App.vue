@@ -11,6 +11,7 @@
     <Payroll />
 
     <Attendance />
+    <LeaveRequests />
   </div>
 </template>
 
